@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
