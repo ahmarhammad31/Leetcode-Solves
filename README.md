@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0136-single-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
