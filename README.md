@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0066-plus-one) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
