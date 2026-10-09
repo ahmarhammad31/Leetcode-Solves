@@ -92,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
