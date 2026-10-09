@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0037-sudoku-solver) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
