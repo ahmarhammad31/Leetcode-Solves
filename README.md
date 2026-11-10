@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ahmarhammad31/Leetcode-Solves/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Lifting
